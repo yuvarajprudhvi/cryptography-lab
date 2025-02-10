@@ -1,0 +1,5 @@
+Now we will be using this text to encrypt and decrypt the text file.
+
+In this cryptography course, now we are doing lab2.4 task 
+
+we are using rc4 to encrypt and decrypt the given text file. 
